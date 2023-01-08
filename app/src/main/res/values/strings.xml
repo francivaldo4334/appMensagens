@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secreto</string>
+    <string name="activities">Atividades</string>
+    <string name="notifications">Notificacoes</string>
+</resources>
